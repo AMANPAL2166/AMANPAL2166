@@ -18,6 +18,6 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats]( https://github-readme-stats.vercel.app/api?username=amanpal2166&show_icons=true&theme=radical
 )
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanpal&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=amanpal&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanpal2166&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=amanpal2166&color=blue)
 
