@@ -20,4 +20,4 @@
 )
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanpal2166&theme=radical)
 ![Visitor Count](https://komarev.com/ghpvc/?username=amanpal2166&color=blue)
-
+ [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
